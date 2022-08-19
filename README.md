@@ -22,25 +22,27 @@
 
 ### 运行记录 ###
 
-> [~] Read configuration file
->
-> [+] Read complete
-> 
-> Page1：https://www.google.pn/search?hl=en&q=Confucius+Institute&tbs=cdr:1,cd_min%3A7/28/2022,cd_max:7/19/2022&start=0
->
-> title：9		caption_cite：9		caption_time：9		caption_p：9
->
-> ......
-> 
-> Page17：https://www.google.it/search?hl=en&q=Confucius+Institute&tbs=cdr:1,cd_min%3A7/28/2022,cd_max:7/19/2022&start=160
-> 
-> title：158		caption_cite：158		caption_time：158		caption_p：158
-> 
-> -----------------------------------------------------------------------------------------------
-> 
-> ------Stored in the database------
-> 
->------End------
+```
+[~] Read configuration file
+
+[+] Read complete
+
+Page1：https://www.google.pn/search?hl=en&q=Confucius+Institute&tbs=cdr:1,cd_min%3A7/28/2022,cd_max:7/19/2022&start=0
+
+title：9		caption_cite：9		caption_time：9		caption_p：9
+
+......
+
+ Page17：https://www.google.it/search?hl=en&q=Confucius+Institute&tbs=cdr:1,cd_min%3A7/28/2022,cd_max:7/19/2022&start=160
+
+ title：158		caption_cite：158		caption_time：158		caption_p：158
+
+-----------------------------------------------------------------------------------------------
+
+------Stored in the database------
+
+------End------
+```
 
 ### 常见报错 ###
 
