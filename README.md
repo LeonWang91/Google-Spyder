@@ -63,7 +63,7 @@ title：9		caption_cite：9		caption_time：9		caption_p：9
 
 ### 关于博主 ###
 
-**知乎：[南浔Pyer](https://www.zhihu.com/people/mo-chen-42-54)**<br/>
-**CSDN：[南浔Pyer](https://blog.csdn.net/qq_45538469)**<br/>
-**个人网站：[DL小站](https://www.idalei.top/)**<br/>
-**GitHub：[LeoWang91](https://github.com/LeoWang91)**<br/>
+#### 知乎：[南浔Pyer](https://www.zhihu.com/people/mo-chen-42-54)<br/>
+#### CSDN：[南浔Pyer](https://blog.csdn.net/qq_45538469)<br/>
+#### 个人网站：[DL小站](https://www.idalei.top/)<br/>
+#### GitHub：[LeoWang91](https://github.com/LeoWang91)<br/>
