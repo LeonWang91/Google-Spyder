@@ -112,7 +112,7 @@ def getTime(_t):
     如今天是2022/8/19，"7 hours ago"是2022/8/19，则返回值为“Aug 19, 2022”
     如今天是2022/8/19，"7 days ago"是2022/8/12，则返回值为“Aug 12, 2022”
     """
-    list = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+    list = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
     # # 当前时间的年月日
     year = datetime.now().year
     month = datetime.now().month
